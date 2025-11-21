@@ -1,0 +1,10 @@
+1 - npm i express
+2 - npm i -D @types/express
+3 - npm i -D nodemon ts-node typescript
+4 - En el archivo "package.json" de modifica asi 
+"scripts": {
+    "dev": "nodemon --exec ts-node src/index.ts"
+  },
+para que solo en terminal pongamos "npm run dev" y se ejecute
+
+5- npm i colors
