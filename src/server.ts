@@ -9,6 +9,8 @@ connetDB()
 
 const app = express()
 
+app.use(express.json())  //esto es para que en el postman si mandamos algon en json lo lea
+
 //Routes
 app.use('/api/projects', projectRoutes)
 
