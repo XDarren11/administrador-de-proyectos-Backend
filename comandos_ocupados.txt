@@ -8,3 +8,4 @@
 para que solo en terminal pongamos "npm run dev" y se ejecute
 
 5- npm i colors
+6 - npm i mongoose dotenv
