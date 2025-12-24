@@ -10,3 +10,5 @@ para que solo en terminal pongamos "npm run dev" y se ejecute
 5- npm i colors
 6 - npm i mongoose dotenv
 7 - npm i express-validator
+8 - npm i cors
+9 -  npm i -D @types/cors
