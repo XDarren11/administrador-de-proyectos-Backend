@@ -12,3 +12,5 @@ para que solo en terminal pongamos "npm run dev" y se ejecute
 7 - npm i express-validator
 8 - npm i cors
 9 -  npm i -D @types/cors
+10 - npm i bcrypt
+11 - npm i -D @types/bcrypt
